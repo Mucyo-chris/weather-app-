@@ -1,4 +1,4 @@
-or create a new repository on the command line
+ or create a new repository on the command line
 
 echo "# xy-shoppingn-on-sale" >> README.md
 git init
